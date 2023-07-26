@@ -18,7 +18,7 @@ sidebar: false
 
 ## Qiu Zhongrun
 
-一名Java后台工程师， 毕业于沈阳东北大学软件工程专业，在深圳搵食。
+一名后台工程师， 毕业于沈阳东北大学软件工程专业，在深圳搵食。
 
 ## License
 [MIT](https://github.com/recoluan/vuepress-theme-reco/blob/master/LICENSE)
